@@ -1,8 +1,8 @@
 {
-    "title": "Agency",
-    "name": "startbootstrap-agency",
+    "title": "Portfolio",
+    "name": "JmackPortfolio",
     "version": "5.0.3",
-    "description": "Agency is a one page HTML theme for Bootstrap.",
+    "description": "",
     "keywords": [
         "css",
         "sass",
@@ -11,20 +11,6 @@
         "theme",
         "template"
     ],
-    "homepage": "https://startbootstrap.com/template-overviews/agency",
-    "bugs": {
-        "url": "https://github.com/BlackrockDigital/startbootstrap-agency/issues",
-        "email": "feedback@startbootstrap.com"
-    },
-    "license": "MIT",
-    "author": "Start Bootstrap",
-    "contributors": [
-        "David Miller (http://davidmiller.io/)"
-    ],
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/BlackrockDigital/startbootstrap-agency.git"
-    },
     "dependencies": {
         "@fortawesome/fontawesome-free": "5.6.3",
         "bootstrap": "4.2.1",
